@@ -1,7 +1,3 @@
-Here’s a **Microsoft Dynamics Developer** profile for **Razi Intazar**:  
-
----
-
 **👋 Hi, I’m Razi Intazar**  
 🚀 **Microsoft Dynamics 365 Developer | CRM & ERP Specialist**  
 
@@ -22,12 +18,6 @@ Here’s a **Microsoft Dynamics Developer** profile for **Razi Intazar**:
 - Automating & optimizing business workflows using Dynamics 365  
 - Custom integrations & extensions for CRM/ERP systems  
 - Data analytics & reporting solutions for enterprise businesses  
-
-**📫 How to reach me...**  
-- Email: [your.email@example.com]  
-- LinkedIn: [linkedin.com/in/yourprofile]  
-
-**😄 Pronouns:** He/Him  
 
 **⚡ Fun fact:**  
 I streamline business processes so well that even Dynamics 365 feels more dynamic! ⚙️🚀  
