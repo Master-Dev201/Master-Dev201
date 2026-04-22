@@ -1,7 +1,7 @@
-# 👋 Hi, I’m Ishaq Patel
+# 👋 Hi, I’m Zohrab Tahir
 
 🐍 **Senior Python Developer | Full-Stack MERN Developer**  
-📧 **Email:** [me.ishaqpatel@gmail.com](mailto:me.ishaqpatel@gmail.com)  
+📧 **Email:** [me.Zohrabtahir93​@gmail.com](mailto:me.Zohrabtahir93​@gmail.com)  
 
 ---
 
